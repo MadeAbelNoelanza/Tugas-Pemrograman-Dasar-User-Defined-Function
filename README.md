@@ -62,11 +62,4 @@ Where:
 
 ## Concepts Demonstrated
 - User-defined functions  
-- Function calling and parameter passing  
-- Mathematical operations using `<cmath>`  
-- Constants and precision with `const double PI`
-
----
-
-## Author
-Created by Made Abel Noelanza
+- Function calling and parameter passing
